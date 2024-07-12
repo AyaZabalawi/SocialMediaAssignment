@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConfigurationPracticalAssignment1.props" />
+</Project>

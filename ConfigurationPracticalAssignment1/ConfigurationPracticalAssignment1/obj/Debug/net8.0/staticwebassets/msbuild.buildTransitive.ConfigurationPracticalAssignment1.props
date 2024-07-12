@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConfigurationPracticalAssignment1.props" />
+</Project>

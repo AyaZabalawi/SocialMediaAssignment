@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "1Xae4/iHl3pVfyB6PpN4QVbtctxsPyyT5HZBP6WkWks=",
+  "Source": "ConfigurationPracticalAssignment1",
+  "BasePath": "_content/ConfigurationPracticalAssignment1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationPracticalAssignment1\\wwwroot",
+      "Source": "ConfigurationPracticalAssignment1",
+      "ContentRoot": "C:\\Users\\ThinkPadT480\\source\\repos\\ConfigurationPracticalAssignment1\\ConfigurationPracticalAssignment1\\wwwroot\\",
+      "BasePath": "_content/ConfigurationPracticalAssignment1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ThinkPadT480\\source\\repos\\ConfigurationPracticalAssignment1\\ConfigurationPracticalAssignment1\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfigurationPracticalAssignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ThinkPadT480\\source\\repos\\ConfigurationPracticalAssignment1\\ConfigurationPracticalAssignment1\\wwwroot\\",
+      "BasePath": "_content/ConfigurationPracticalAssignment1",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
